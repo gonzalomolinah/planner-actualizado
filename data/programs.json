@@ -1,0 +1,4980 @@
+{
+  "majors": [
+    {
+      "code": "M101",
+      "name": "Major en Ciencias Ambientales",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M102",
+      "name": "Major en Computación e Ingeniería de Software",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M133",
+      "name": "Major en Computación e Ingeniería de Software - Track Computación",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M137",
+      "name": "Major en Computación e Ingeniería de Software - Track Ingeniería de Software",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M138",
+      "name": "Major en Computación e Ingeniería de Software - Track Tecnologías de la Información",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M245",
+      "name": "Major en Computación y Sistemas de Información - Track Computación",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M246",
+      "name": "Major en Computación y Sistemas de Información - Track Sistemas de Información",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M231",
+      "name": "Major en Geociencias",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M736",
+      "name": "Major en Geociencias",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M100",
+      "name": "Major en Ingeniería Ambiental",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M124",
+      "name": "Major en Ingeniería Biológica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M146",
+      "name": "Major en Ingeniería Biológica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M125",
+      "name": "Major en Ingeniería Biomédica - Track General",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M147",
+      "name": "Major en Ingeniería Biomédica - Track General",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M126",
+      "name": "Major en Ingeniería Biomédica - Track Premedicina",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M148",
+      "name": "Major en Ingeniería Biomédica - Track Premedicina",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M190",
+      "name": "Major en Ingeniería Civil - Track de Ingeniería de Minería",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M188",
+      "name": "Major en Ingeniería Civil - Track de Ingeniería Geotécnica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M189",
+      "name": "Major en Ingeniería Civil - Track de Ingeniería Hidráulica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M191",
+      "name": "Major en Ingeniería Civil - Track de Ingeniería Transporte",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M186",
+      "name": "Major en Ingeniería Civil - Track en Diseño y Construcción de Obras",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M187",
+      "name": "Major en Ingeniería Civil - Track en Ingeniería Estructural",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M185",
+      "name": "Major en Ingeniería Civil - Track en Ingeniería y Gestión de la Construcción",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M116",
+      "name": "Major en Ingeniería Civil - Track Ingeniería Ambiental",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M184",
+      "name": "Major en Ingeniería Civil - Track Ingeniería Ambiental",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M118",
+      "name": "Major en Ingeniería Civil - Track Ingeniería de Diseño y Construcción de Obras",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M122",
+      "name": "Major en Ingeniería Civil - Track Ingeniería de Minería",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M123",
+      "name": "Major en Ingeniería Civil - Track Ingeniería de Transporte",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M119",
+      "name": "Major en Ingeniería Civil - Track Ingeniería Estructural",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M120",
+      "name": "Major en Ingeniería Civil - Track Ingeniería Geotécnica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M121",
+      "name": "Major en Ingeniería Civil - Track Ingeniería Hidráulica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M117",
+      "name": "Major en Ingeniería Civil - Track Ingeniería y Gestión de la Construcción",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M144",
+      "name": "Major en Ingeniería de Construcción",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M733",
+      "name": "Major en Ingeniería de Construcción",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M176",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A1: Externalidades e Impacto Ambiental",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M180",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A1: Externalidades e Impacto Ambiental",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M177",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A2: Herramientas de Análisis y Modelación",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M181",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A2: Herramientas de Análisis y Modelación",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M178",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A3: Manejo de Bases de Datos",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M182",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A3: Manejo de Bases de Datos",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M179",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A4: Profundización en Ingeniería de Transporte",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M183",
+      "name": "Major en Ingeniería de Sistemas de Transporte - A4: Profundización en Ingeniería de Transporte",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M247",
+      "name": "Major en Ingeniería de Software",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M104",
+      "name": "Major en Ingeniería Eléctrica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M233",
+      "name": "Major en Ingeniería Eléctrica",
+      "version": "Vs.03",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M734",
+      "name": "Major en Ingeniería Eléctrica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M174",
+      "name": "Major en Ingeniería en Investigación Operativa",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M175",
+      "name": "Major en Ingeniería en Investigación Operativa",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M073",
+      "name": "Major en Ingeniería Estructural",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M232",
+      "name": "Major en Ingeniería Estructural",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M149",
+      "name": "Major en Ingeniería Física - Track Física",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M143",
+      "name": "Major en Ingeniería Física - Track Ingeniería",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M106",
+      "name": "Major en Ingeniería Geotécnica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M238",
+      "name": "Major en IngenierÍa Geotécnica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M234",
+      "name": "Major en Ingeniería Hidráulica",
+      "version": "Vs.03",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M072",
+      "name": "Major en Ingeniería Hidráulica - Track en Ingeniería Hidráulica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M107",
+      "name": "Major en Ingeniería Hidráulica - Track en Ingeniería Hidráulica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M108",
+      "name": "Major en Ingeniería Hidráulica - Track en Recursos Hídricos",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M712",
+      "name": "Major en Ingeniería Hidráulica - Track en Recursos Hídricos",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M227",
+      "name": "Major en Ingeniería Matemática",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M129",
+      "name": "Major en Ingeniería Matemática - Track 1: Fundamentos de Optimización",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M130",
+      "name": "Major en Ingeniería Matemática - Track 2: Fundamentos de Análisis Numérico",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M131",
+      "name": "Major en Ingeniería Matemática - Track 3: Cuantificación de Incertidumbre",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M135",
+      "name": "Major en Ingeniería Matemática - Track 4: Teoría de la Computación",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M074",
+      "name": "Major en Ingeniería Matemática - Track 5: Data Science",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M076",
+      "name": "Major en Ingeniería Matemática-Track 1: Modelamiento Determinístico",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M075",
+      "name": "Major en Ingeniería Matemática-Track 2: Modelamiento Estocástico",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M764",
+      "name": "Major en Ingeniería Matemática-Track 3: Teoría de la Computación",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M171",
+      "name": "Major en Ingeniería Mecánica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M714",
+      "name": "Major en Ingeniería Mecánica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M110",
+      "name": "Major en Ingeniería Minera",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M192",
+      "name": "Major en Ingeniería Minera",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M111",
+      "name": "Major en Ingeniería Química",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M258",
+      "name": "Major en Ingeniería Química",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M172",
+      "name": "Major en Ingeniería Robótica",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M173",
+      "name": "Major en Ingeniería Robótica",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M145",
+      "name": "Major en Ingeniería y Arquitectura",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M763",
+      "name": "Major en Ingeniería y Arquitectura",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M170",
+      "name": "Major en Ingeniería y Ciencias Ambientales",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M128",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track Diseño",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M236",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track en Diseño",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M132",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track en Ingeniería",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M235",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track en Ingeniería",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M237",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track en Ingeniería y Diseño",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M127",
+      "name": "Major en Ingeniería, Diseño e Innovación - Track Ingeniería y Diseño",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M109",
+      "name": "Major en Investigación Operativa",
+      "version": "Vs.02",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M713",
+      "name": "Major en Investigación Operativa",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M738",
+      "name": "Major en Sistemas Autónomos y Robóticos",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M112",
+      "name": "Major en Sistemas de Transporte - Área 1: Externalidades e Impacto Ambiental",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M113",
+      "name": "Major en Sistemas de Transporte - Área 2: Herramientas de Análisis y Modelación",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M114",
+      "name": "Major en Sistemas de Transporte - Área 3: Manejo de Bases de Datos",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M115",
+      "name": "Major en Sistemas de Transporte - Área 4: Profundización en Ingeniería de Transporte",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M263",
+      "name": "Major Independiente en Ingeniería Industrial",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "M262",
+      "name": "Major Independiente en Ingeniería Matemática y Computacional",
+      "version": "Vs.01",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    }
+  ],
+  "minors": [
+    {
+      "code": "N772",
+      "name": "Minor de Amplitud en Agua y Energía",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N773",
+      "name": "Minor de Amplitud en Agua y Minería",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N204",
+      "name": "Minor de Amplitud en Análisis Numérico",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N730",
+      "name": "Minor de Amplitud en Externalidades de Transporte",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N350",
+      "name": "Minor de Amplitud en Fundamentos de Ingeniería Aeroespacial",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N677",
+      "name": "Minor de Amplitud en Fundamentos de Ingeniería Aeroespacial",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N235",
+      "name": "Minor de Amplitud en Fundamentos de Ingeniería Biológica",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N686",
+      "name": "Minor de Amplitud en Fundamentos de Ingeniería Biológica",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N680",
+      "name": "Minor de Amplitud en Fundamentos de Procesos Mineros",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N679",
+      "name": "Minor de Amplitud en Fundamentos para la Gestión Minera",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N203",
+      "name": "Minor de Amplitud en Geociencias - Área Peligros Geológicos",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N202",
+      "name": "Minor de Amplitud en Geociencias - Área Recursos Geológicos",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N781",
+      "name": "Minor de Amplitud en Hidrología Ambiental",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N231",
+      "name": "Minor de Amplitud en Ingeniería de Construcción",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N777",
+      "name": "Minor de Amplitud en Ingeniería de Construcción",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N199",
+      "name": "Minor de Amplitud en Ingeniería Eléctrica",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N344",
+      "name": "Minor de Amplitud en Ingeniería Eléctrica",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N346",
+      "name": "Minor de Amplitud en Ingeniería Estructural",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N779",
+      "name": "Minor de Amplitud en Ingeniería Estructural",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N345",
+      "name": "Minor de Amplitud en Ingeniería Geotécnica",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N780",
+      "name": "Minor de Amplitud en Ingeniería Geotécnica",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N338",
+      "name": "Minor de Amplitud en Ingeniería Hidráulica y Ambiental",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N200",
+      "name": "Minor de Amplitud en Ingeniería Industrial",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N206",
+      "name": "Minor de Amplitud en Ingeniería Matemática",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N678",
+      "name": "Minor de Amplitud en Ingeniería Mecánica",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N289",
+      "name": "Minor de Amplitud en Ingeniería Minera",
+      "version": "Vs. 01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N229",
+      "name": "Minor de Amplitud en Ingeniería Química",
+      "version": "Vs.02",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N681",
+      "name": "Minor de Amplitud en Ingeniería Química",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N242",
+      "name": "Minor de Amplitud en Innovación Tecnológica",
+      "version": "Vs. 01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N201",
+      "name": "Minor de Amplitud en Logística y Transporte de Carga",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N205",
+      "name": "Minor de Amplitud en Matemáticas Aplicadas",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N774",
+      "name": "Minor de Amplitud en Obras Hidráulicas",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N776",
+      "name": "Minor de Amplitud en Programación",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N775",
+      "name": "Minor de Amplitud en Sistema de Tratamiento de Agua",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N682",
+      "name": "Minor de Amplitud en Sistemas de Transporte",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N207",
+      "name": "Minor de Amplitud en Tecnología de Información",
+      "version": "Vs.01",
+      "type": "Amplitud",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N196",
+      "name": "Minor de Profundidad Articulación Arquitectura",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N227",
+      "name": "Minor de Profundidad Articulación Arquitectura",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N190",
+      "name": "Minor de Profundidad Articulación Ingeniería Civil",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N290",
+      "name": "Minor de Profundidad Articulación Ingeniería Civil",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N197",
+      "name": "Minor de Profundidad Articulación Ingeniería Civil (Major en Ingeniería y Arquitectura)",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N230",
+      "name": "Minor de Profundidad Articulación Ingeniería Civil (Major en Ingeniería y Arquitectura)",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N232",
+      "name": "Minor de Profundidad Articulación Ingeniería de Construcción",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N771",
+      "name": "Minor de Profundidad Articulación Ingeniería de Construcción",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N191",
+      "name": "Minor de Profundidad Articulación Ingeniería de Transporte - Área 1: Externalidades e Impacto Ambiental",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N192",
+      "name": "Minor de Profundidad Articulación Ingeniería de Transporte - Área 2: Herramientas de Análisis y Modelación",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N193",
+      "name": "Minor de Profundidad Articulación Ingeniería de Transporte - Área 3: Manejo de Bases de Datos",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N194",
+      "name": "Minor de Profundidad Articulación Ingeniería de Transporte - Área 4: Profundización en Ingeniería de Transporte",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N195",
+      "name": "Minor de Profundidad Articulación Premedicina",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N234",
+      "name": "Minor de Profundidad Articulación Premedicina",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N707",
+      "name": "Minor de Profundidad Articulación Proyectos de Diseño",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N162",
+      "name": "Minor de Profundidad en Automática y Robótica",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N696",
+      "name": "Minor de Profundidad en Automática y Robótica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N188",
+      "name": "Minor de Profundidad en Automatización e Inteligencia Computacional - Área 1: Control y Automatización",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N189",
+      "name": "Minor de Profundidad en Automatización e Inteligencia Computacional - Área 2: Inteligencia Computacional",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N208",
+      "name": "Minor de Profundidad en Bioingeniería - Área Bioinformática",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N240",
+      "name": "Minor de Profundidad en Bioingeniería - Area Bioinformática",
+      "version": "Vs. 03",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N176",
+      "name": "Minor de Profundidad en Bioingeniería - Área Biología Sintética",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N239",
+      "name": "Minor de Profundidad en Bioingeniería - Area Biología Sintética",
+      "version": "Vs. 03",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N209",
+      "name": "Minor de Profundidad en Bioingeniería - Área Biomedicina",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N238",
+      "name": "Minor de Profundidad en Bioingeniería - Area Biomedicina",
+      "version": "Vs. 03",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N173",
+      "name": "Minor de Profundidad en Bioingeniería - Área Medioambiente",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N237",
+      "name": "Minor de Profundidad en Bioingeniería - Area Medioambiente",
+      "version": "Vs. 03",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N175",
+      "name": "Minor de Profundidad en Bioingeniería - Área Procesos",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N236",
+      "name": "Minor de Profundidad en Bioingeniería - Area Procesos",
+      "version": "Vs. 03",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N120",
+      "name": "Minor de Profundidad en Bioingeniería-Área Bioenergía",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N119",
+      "name": "Minor de Profundidad en Bioingeniería-Área Biomateriales",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N683",
+      "name": "Minor de Profundidad en Bioingeniería-Área Biomedicina",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N117",
+      "name": "Minor de Profundidad en Bioingeniería-Área Medio Ambiente",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N118",
+      "name": "Minor de Profundidad en Bioingeniería-Área Procesos",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N179",
+      "name": "Minor de Profundidad en Biomateriales",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N178",
+      "name": "Minor de Profundidad en Biomecánica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N161",
+      "name": "Minor de Profundidad en Data Science y Analytics",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N164",
+      "name": "Minor de Profundidad en Electrónica y Telecomunicaciones",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N698",
+      "name": "Minor de Profundidad en Electrónica y Telecomunicaciones",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N163",
+      "name": "Minor de Profundidad en Energía Eléctrica",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N697",
+      "name": "Minor de Profundidad en Energía Eléctrica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N160",
+      "name": "Minor de Profundidad en Fundamentos Científicos y Tecnológicos de la Computación",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N770",
+      "name": "Minor de Profundidad en Fundamentos Científicos y Tecnológicos de la Computación",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N174",
+      "name": "Minor de Profundidad en Geología Ambiental",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N339",
+      "name": "Minor de Profundidad en Geología Ingenieril",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N704",
+      "name": "Minor de Profundidad en Gestión Minera",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N288",
+      "name": "Minor de Profundidad en Gestión y Operaciones Mineras",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N165",
+      "name": "Minor de Profundidad en Hidrogeología",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N699",
+      "name": "Minor de Profundidad en Hidrogeología",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N769",
+      "name": "Minor de Profundidad en Hidrogeoquímica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N177",
+      "name": "Minor de Profundidad en Imágenes Médicas",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N233",
+      "name": "Minor de Profundidad en Ingeniería Biomédica",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N226",
+      "name": "Minor de Profundidad en Ingeniería de Alimentos",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N169",
+      "name": "Minor de Profundidad en Ingeniería de Procesos",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N228",
+      "name": "Minor de Profundidad en Ingeniería de Procesos",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N343",
+      "name": "Minor de Profundidad en Ingeniería Eléctrica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N753",
+      "name": "Minor de Profundidad en Innovación en Sistemas de Tratamiento de Aguas",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N168",
+      "name": "Minor de Profundidad en Logística Minera (para Minería)",
+      "version": "",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N748",
+      "name": "Minor de Profundidad en Logística Minera (para Transporte)",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N702",
+      "name": "Minor de Profundidad en Materiales",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N291",
+      "name": "Minor de Profundidad en Mecatrónica",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N701",
+      "name": "Minor de Profundidad en Mecatrónica",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N750",
+      "name": "Minor de Profundidad en Peligros Geológicos",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N167",
+      "name": "Minor de Profundidad en Procesos Mineros",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N171",
+      "name": "Minor de Profundidad en Recursos Geológicos - Área Recursos Hídricos",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N172",
+      "name": "Minor de Profundidad en Recursos Geológicos - Área Recursos Mineros",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N292",
+      "name": "Minor de Profundidad en Robótica - Área 1: Control y Automatización",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N294",
+      "name": "Minor de Profundidad en Robótica - Área 1: Ingeniería de Sistemas de Automatización",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N293",
+      "name": "Minor de Profundidad en Robótica - Área 2: Inteligencia Computacional",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N295",
+      "name": "Minor de Profundidad en Robótica - Área 2: Inteligencia Computacional",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N296",
+      "name": "Minor de Profundidad en Robótica - Área 3: Mecatrónica",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N746",
+      "name": "Minor de Profundidad en Tecnología Ambiental",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N180",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática - Track 1: Fundamentos de Optimización",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N181",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática - Track 2: Fundamentos de Análisis Numérico",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N182",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática - Track 3: Cuantificación de Incertidumbre",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N183",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática - Track 4: Teoría de la Computación",
+      "version": "Vs. 02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N184",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática - Track 5: Data Science",
+      "version": "Vs.02",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N116",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática-Track 1: Modelamiento Determinístico",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N115",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática-Track 2: Modelamiento Estocástico",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N687",
+      "name": "Minor de Profundidad en Teoría y Aplicación de Ingeniería Matemática-Track 3: Teoría de la Computación",
+      "version": "Vs. 01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N198",
+      "name": "Minor de Profundidad Ingeniería y Arquitectura",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N374",
+      "name": "Minor Independiente en Informática",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "N373",
+      "name": "Minor Independiente en Inteligencia Artificial",
+      "version": "Vs.01",
+      "type": "Profundidad",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    }
+  ],
+  "titles": [
+    {
+      "code": "40003",
+      "name": "Ingeniero Civil, Diploma en Ingeniería Ambiental",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40018",
+      "name": "Ingeniero Civil, Diploma en Ingeniería y Gestión de la Construcción",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40016",
+      "name": "Ingeniero Civil, Diploma en Ingeniería de Diseño y Construcción de Obra",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40022",
+      "name": "Ingeniero Civil, Diploma en Ingeniería Estructural",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40014",
+      "name": "Ingeniero Civil, Diploma en Ingeniería Geotécnica",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40032",
+      "name": "Ingeniero Civil, Diploma en Ingeniería Hidráulica",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40008",
+      "name": "Ingeniero Civil, Diploma en Ingeniería de Minería",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40042",
+      "name": "Ingeniero Civil, Diploma en Ingeniería de Transporte",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40004",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Ambiental",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40056",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería de Bioprocesos",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40082",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería de Computación",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40096",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería de la Construcción",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40062",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Eléctrica",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40054",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Hidráulica",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40094",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Matemática",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40052",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Mecánica",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40093",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería de Minería",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40072",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería Química",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40095",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería en Tecnologías de Información",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40092",
+      "name": "Ingeniero Civil de Industrias, Diploma en Ingeniería de Transporte",
+      "version": "",
+      "type": "INDUSTRIAL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40010",
+      "name": "Ingeniero Civil de Biotecnología, área ambiental",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40009",
+      "name": "Ingeniero Civil de Biotecnología, área procesos",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40007",
+      "name": "Ingeniero Civil de Computación",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40005",
+      "name": "Ingeniero Civil Electricista",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40023",
+      "name": "Ingeniero Civil Matemático y Computacional",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    },
+    {
+      "code": "40006",
+      "name": "Ingeniero Civil Mecánico",
+      "version": "",
+      "type": "CIVIL",
+      "cYears": [
+        "C2020",
+        "C2022"
+      ]
+    }
+  ],
+  "cYears": [
+    "C2020",
+    "C2022"
+  ],
+  "majorMinors": {
+    "M811": [],
+    "M101": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N769",
+      "N774",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M102": [
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N770",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M133": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M137": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M138": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M245": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M246": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M231": [
+      "N199",
+      "N200",
+      "N201",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N339",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M736": [
+      "N171",
+      "N172",
+      "N174",
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N750",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M100": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N753",
+      "N769",
+      "N774",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M103": [],
+    "M124": [
+      "N117",
+      "N118",
+      "N119",
+      "N120",
+      "N173",
+      "N175",
+      "N176",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N208",
+      "N209",
+      "N231",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N682",
+      "N683",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M146": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N231",
+      "N236",
+      "N237",
+      "N238",
+      "N239",
+      "N240",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N682",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M125": [
+      "N177",
+      "N178",
+      "N179",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M147": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N233",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M126": [
+      "N195"
+    ],
+    "M148": [
+      "N234"
+    ],
+    "M269": [
+      "N234"
+    ],
+    "M270": [
+      "N200",
+      "N207",
+      "N233",
+      "N235",
+      "N344",
+      "N678",
+      "N776"
+    ],
+    "M190": [],
+    "M188": [],
+    "M189": [],
+    "M191": [],
+    "M186": [],
+    "M187": [],
+    "M185": [],
+    "M116": [],
+    "M184": [],
+    "M118": [],
+    "M122": [],
+    "M123": [],
+    "M119": [],
+    "M120": [],
+    "M121": [],
+    "M117": [],
+    "M144": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N232",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M733": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N771",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M176": [
+      "N190",
+      "N192",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M180": [
+      "N190",
+      "N192",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M177": [
+      "N190",
+      "N191",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M181": [
+      "N190",
+      "N191",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M178": [
+      "N190",
+      "N191",
+      "N192",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M182": [
+      "N190",
+      "N191",
+      "N192",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M179": [
+      "N190",
+      "N191",
+      "N192",
+      "N193",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M183": [
+      "N190",
+      "N191",
+      "N192",
+      "N193",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M247": [
+      "N160",
+      "N161",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M104": [
+      "N162",
+      "N163",
+      "N164",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M233": [
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N343",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M734": [
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N696",
+      "N697",
+      "N698",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M174": [
+      "N199",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M175": [
+      "N199",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M073": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N781"
+    ],
+    "M232": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N781"
+    ],
+    "M265": [
+      "N200",
+      "N205",
+      "N206",
+      "N207",
+      "N242",
+      "N344",
+      "N345",
+      "N678",
+      "N776"
+    ],
+    "M149": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M143": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M106": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N781"
+    ],
+    "M238": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N781"
+    ],
+    "M234": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M072": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N699",
+      "N730",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M107": [
+      "N165",
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N350",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M108": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M712": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780"
+    ],
+    "M227": [],
+    "M129": [
+      "N181",
+      "N182",
+      "N183",
+      "N184",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M130": [
+      "N180",
+      "N182",
+      "N183",
+      "N184",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M131": [
+      "N180",
+      "N181",
+      "N183",
+      "N184",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M135": [
+      "N180",
+      "N181",
+      "N182",
+      "N184",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M074": [
+      "N180",
+      "N181",
+      "N182",
+      "N183",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M076": [
+      "N115",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N687",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M075": [
+      "N116",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N687",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M764": [
+      "N115",
+      "N116",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M171": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N291",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M714": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N350",
+      "N677",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N701",
+      "N702",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M110": [
+      "N167",
+      "N168",
+      "N199",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N681",
+      "N682",
+      "N686",
+      "N704",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M192": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N288",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M111": [
+      "N169",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N226",
+      "N228",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N682",
+      "N730",
+      "N746",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M258": [
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N226",
+      "N228",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N682",
+      "N730",
+      "N776"
+    ],
+    "M172": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N292",
+      "N293",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N350",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M173": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N294",
+      "N295",
+      "N296",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M145": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N227",
+      "N229",
+      "N230",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N780",
+      "N781"
+    ],
+    "M763": [
+      "N196",
+      "N197",
+      "N198",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N235",
+      "N242",
+      "N289",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N780",
+      "N781"
+    ],
+    "M170": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N682",
+      "N730",
+      "N769",
+      "N774",
+      "N776",
+      "N779",
+      "N780"
+    ],
+    "M128": [
+      "N200",
+      "N707"
+    ],
+    "M267": [
+      "N708"
+    ],
+    "M236": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N707",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M132": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M235": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M237": [
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M127": [
+      "N190",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N289",
+      "N290",
+      "N338",
+      "N344",
+      "N345",
+      "N346",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M206": [
+      "N200",
+      "N205",
+      "N207",
+      "N231",
+      "N338",
+      "N344",
+      "N345",
+      "N678",
+      "N776"
+    ],
+    "M109": [
+      "N199",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M713": [
+      "N199",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M738": [
+      "N188",
+      "N189",
+      "N199",
+      "N200",
+      "N201",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N682",
+      "N686",
+      "N730",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M112": [
+      "N190",
+      "N192",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M113": [
+      "N190",
+      "N191",
+      "N193",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M114": [
+      "N190",
+      "N191",
+      "N192",
+      "N194",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M115": [
+      "N190",
+      "N191",
+      "N192",
+      "N193",
+      "N199",
+      "N200",
+      "N202",
+      "N203",
+      "N204",
+      "N205",
+      "N206",
+      "N207",
+      "N229",
+      "N231",
+      "N235",
+      "N242",
+      "N289",
+      "N290",
+      "N677",
+      "N678",
+      "N679",
+      "N680",
+      "N681",
+      "N686",
+      "N748",
+      "N772",
+      "N773",
+      "N774",
+      "N775",
+      "N776",
+      "N777",
+      "N779",
+      "N780",
+      "N781"
+    ],
+    "M263": [],
+    "M262": []
+  }
+}

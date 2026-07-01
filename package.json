@@ -1,0 +1,10 @@
+{
+  "name": "planner-local-simple",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-local-data.mjs",
+    "dev": "node server.mjs"
+  }
+}
